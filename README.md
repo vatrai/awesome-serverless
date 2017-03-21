@@ -209,7 +209,7 @@ You want to contribute to this project? [Please follow these recommendations](CO
 ### License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-<!---
+
 ### Serverless Manifiesto
 https://martinfowler.com/articles/serverless.html
 https://github.com/exis-io/Exis
@@ -236,4 +236,3 @@ https://telepat.io/
 https://prerender.io/
 https://www.prerender.cloud/
 https://github.com/pubkey/rxdb
--->

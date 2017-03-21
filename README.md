@@ -211,6 +211,7 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 <!---
 ### Serverless Manifiesto
+https://martinfowler.com/articles/serverless.html
 https://github.com/exis-io/Exis
 https://www.imgix.com
 https://github.com/localytics/serverless-slackbot-scaffold
